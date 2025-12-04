@@ -77,3 +77,7 @@ examples/example_sdl3_opengl3/example_sdl3_opengl3
 examples/example_sdl3_sdlgpu3/example_sdl3_sdlgpu3
 examples/example_sdl3_sdlrenderer3/example_sdl3_sdlrenderer3
 examples/example_sdl3_vulkan/example_sdl3_vulkan
+/bin/Debug-windows-x86_64/ImGui
+/bin-int/Debug-windows-x86_64/ImGui
+/obj/Debug-windows-x86_64/ImGui
+*.vcxproj
